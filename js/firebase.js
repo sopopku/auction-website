@@ -15,6 +15,7 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/9.20.0/firebase
 const firebaseConfig = {
   apiKey: "AIzaSyBfo_F1LjkftTydlWxjErNOdYG4f6x31yU",
   authDomain: "office-bid.firebaseapp.com",
+  databaseURL: "https://office-bid-default-rtdb.firebaseio.com",
   projectId: "office-bid",
   storageBucket: "office-bid.appspot.com",
   messagingSenderId: "996442738186",
